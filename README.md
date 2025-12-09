@@ -59,26 +59,3 @@ mongod
 node server.js
 ```
 
-## 📦 File structure
-
-Authentication-Authorization-System/
-│
-├── config/
-│   └── db.js
-│
-├── controllers/
-│   └── authController.js
-│
-├── middleware/
-│   ├── authMiddleware.js
-│   └── roleMiddleware.js
-│
-├── models/
-│   └── User.js
-│
-├── routes/
-│   └── authRoutes.js
-│
-├── server.js
-└── .env
-
